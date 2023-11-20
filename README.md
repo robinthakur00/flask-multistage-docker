@@ -53,4 +53,4 @@ To reduce the size of the Docker image, a multi-stage build is used in the `Dock
 
 ## CI/CD with Jenkins
 
-Automate the Continuous Integration and Continuous Deployment (CI/CD) process using Jenkins. Set up Jenkins jobs or pipelines to build, test, and deploy the Flask application to various environments.
+Automate the Continuous Integration and Continuous Deployment (CI/CD) process using Jenkins. Set up Jenkins jobs or pipelines to build and deploy the Flask application.
