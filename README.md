@@ -16,7 +16,7 @@ This Flask application serves a basic web page using Gunicorn as the production 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/your-repo.git
+    git clone https://github.com/robinthakur00/flask-multistage-docker.git
     ```
 
 2. Install dependencies:
